@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+.NET+BackEnd+Developer;%3E+ASP.NET+|+PostreSQL+|+RabbitMQ+|+Docker" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+.NET+BackEnd+Developer;%3E+ASP.NET+|+PostgreSQL+|+RabbitMQ+|+Docker" 
        style="background-color: black; 
               padding: 15px 20px; 
               border-radius: 10px; 
