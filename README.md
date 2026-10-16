@@ -58,6 +58,26 @@
   </tr>
 </table>
 
+<table align="left">
+  <tr>
+  <td width="45%" style="padding: 0; line-height: 0;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Zubadrobitel&show_icons=true&theme=radical" 
+       width="100%" 
+       style="display: block;"/>
+  </td>
+ <td width="55%" align="left" style="padding-left:20px">
+   <div align = "center">
+      <h2>📋 2026 – Now · Team Lead</h2>
+      <p><b>Team Lead</b> at a <b>vendor company</b>, leading a team that builds real-time industrial systems:<br/>
+      📡 Working with <b>sensor arrays</b> — massive streams of telemetry data<br/>
+      🏭 <b>3D modeling of factories and plants</b> — digital twins of real production facilities<br/>
+      🎛️ <b>Real-time personnel and factory management</b> — from the shop floor to the control room<br/>
+      <code>.NET</code> · <code>ASP.NET</code> · <code>PostgreSQL</code> · <code>RabbitMQ</code> · <code>Docker</code> · <code>3D</code> · <code>IoT</code></p>
+   </div>
+    </td>
+  </tr>
+</table>
+
 <div>
   <p>💡 It all started with <b>QRGen</b> — a project that hooked me so deep<br/>
   I spent nights coding, learning, experimenting. The more I learn about event-driven architecture, the more I fall in love with it!</p>
